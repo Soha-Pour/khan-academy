@@ -1,0 +1,22 @@
+#main-heading {
+  color: purple;
+}
+
+.note {
+  background-color: yellow;
+}
+
+.crocodile {
+  color: green;
+  font-family: fantasy;
+}
+
+.second {
+  height: 300px;
+  width: 400px;
+  display: none;
+}
+
+.result {
+  color: red;
+}
